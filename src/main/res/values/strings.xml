@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PICK the TUNE</string>
+    <string name="esto_es_el_logo">esto es el logo</string>
+    <string name="a">A2</string>
+    <string name="b">B3</string>
+    <string name="d">D3</string>
+    <string name="_e">e4</string>
+    <string name="g">G3</string>
+    <string name="e2">E2</string>
+    <string name="guitarhead">guitarhead</string>
+    <string name="_r" />
+    <string name="settings" />
+    <string name="hola">hola</string>
+    <string name="frequency_textview">Frequency textview</string>
+    <string name="pointer_for_range">Pointer for range</string>
+    <string name="frequency">Frequency</string>
+    <string name="note">Note</string>
+    <string name="standard_e_e2_a2_d3_g3_b3_e4">Standard E (E2 A2 D3 G3 B3 e4)</string>
+</resources>
